@@ -1,0 +1,10 @@
+images/*
+!images/.gitkeep
+image_descriptions.csv
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
